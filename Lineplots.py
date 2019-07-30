@@ -25,5 +25,4 @@ plt.xlabel('Ages')
 plt.ylabel('Median Salary (USD)')
 
 plt.tight_layout()
-
 plt.show()
