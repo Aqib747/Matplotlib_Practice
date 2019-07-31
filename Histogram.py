@@ -9,7 +9,7 @@ ages = data['Age']
 
 bins = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 
-plt.hist(ages, bins=bins, edgecolor='black')
+plt.hist(ages, bins=bins,edgecolor='black')
 
 median_age = 29
 color = '#fc4f30'

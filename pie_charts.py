@@ -11,7 +11,7 @@ explode = [0,0,0,0.1,0] # ----> to emphasise the pie of intrest 0.1 means 10% of
 # labels = ['sixty','forty','thirty','tweenty']
 #colors = ['blue', 'red','green','yellow']
 
-plt.pie(slices, labels= labels,shadow= True ,explode = explode,autopct="%1.0f%%", wedgeprops= {'edgecolor': 'black'})
+plt.pie(slices, labels= labels,shadow= True,explode = explode,autopct="%1.0f%%", wedgeprops= {'edgecolor': 'black'})
 
 
 
